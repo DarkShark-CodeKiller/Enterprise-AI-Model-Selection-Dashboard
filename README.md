@@ -1,7 +1,7 @@
 # Enterprise-AI-Model-Selection-Dashboard
 An interactive dashboard on streamlit helping businesses select suitable AI models based on technical capabilities, benchmark performance, and estimated API costs.
 
-## Step 1 — Dataset and Decision-Maker
+## Dataset and Decision-Maker
 
 ### Dataset
 
@@ -26,7 +26,7 @@ Rather than choosing the most powerful or cheapest model alone, the manager need
 
 ---
 
-## Step 2 — Why Build a Dashboard?
+## Why Build a Dashboard?
 
 ### 1. Who uses it, and how often?
 
@@ -68,7 +68,7 @@ A weekly email may be useful for announcing major pricing changes, but it cannot
 
 ---
 
-## Step 3 — What Matters on the Dashboard?
+## What Matters on the Dashboard?
 
 We performed exploratory data analysis using Pandas and Matplotlib to examine data types, missing values, price distributions, and differences across model providers.
 
@@ -154,7 +154,7 @@ The dashboard is intended for initial screening, not final procurement decisions
 
 ---
 
-## Step 4 — Refresh Frequency
+## Refresh Frequency
 
 ### How often should data be updated?
 
@@ -200,7 +200,7 @@ The current dashboard uses the downloaded Kaggle snapshot dated August 13, 2026.
 
 ---
 
-## Step 5 — Build and Deployment
+## Build and Deployment
 
 ### Tools
 
